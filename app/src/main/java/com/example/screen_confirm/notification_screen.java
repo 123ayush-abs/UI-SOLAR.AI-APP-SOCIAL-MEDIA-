@@ -23,7 +23,7 @@ public class notification_screen extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()){
                     case R.id.search:
-                        Toast.makeText(getApplicationContext(),"Moving To Search Module",Toast.LENGTH_LONG).show();
+                        Toast.makeText(getApplicationContext(),"Moving To The Search Module",Toast.LENGTH_LONG).show();
                         //startActivity(new Intent(getApplicationContext(),Post_frag.class));
                         startActivity(new Intent(getApplicationContext(),search_frag.class));
                         overridePendingTransition(1,1);
