@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_login_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_main_notification_screen.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_new_creator.xml" value="0.14666666666666667" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_notication_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_notification_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_post_frag.xml" value="0.12" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_profile_frag.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_recy_notify.xml" value="0.12" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_saved_frag.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/activity_search_frag.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/fragment_home_frag.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/fragment_post_frag.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/layout/main_notification_screen.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/flutterap/screen_Confirm/app/src/main/res/menu/menu_nav.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
